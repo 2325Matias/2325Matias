@@ -1,12 +1,19 @@
-#Matias Ramirez.
+# Hola, soy Matias Ramirez.
 
-Estudios:
-1. Técnico Electrónico.
-1. Capacitación técnica en seguridad electrónica/ Vigilancia IP.
-1. Capacitación en Redes Informáticas 1/ técnico en redes informáticas.
-1. Analista y desarrollador de aplicaciones en C# (cursando).
-1. full stack en PHP (cursando).
-1. full stack JavaScript (cursando).
+## Formación Academica:
 
-##Comandos Aprendidos.
+* Técnico Electrónico.
+* Capacitación técnica en seguridad electrónica/ *Vigilancia IP*.
+* Capacitación en Redes Informáticas 1/ *técnico en redes informáticas*.
+* Analista y desarrollador de aplicaciones en C# (cursando).
+* full stack en PHP (cursando).
+* full stack JavaScript (cursando).
 
+### Comandos Aprendidos.
+
+| Comando | Descripción |
+|---------|-------------|
+| ls | lista los archivos de la carpeta actual, *"ls documents"* |
+| cd | permite navegar por carpetas, *"cd documents"*|
+| mkdir | crea una carpeta dado un nombre para la misma, *"mkdir hola"*|
+| ctrl + c | detiene lo que se esta haciendo si la terminal no responde.|
